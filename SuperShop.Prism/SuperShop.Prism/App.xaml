@@ -6,6 +6,11 @@
   <Application.Resources>
 
     <!-- Application resource dictionary -->
-
-  </Application.Resources>
+        <ResourceDictionary>
+            
+            <!-- Parameters-->
+            <x:String x:Key="UrlAPI">https://qfnf2xqd-44397.uks1.devtunnels.ms/</x:String>
+        </ResourceDictionary>
+      
+    </Application.Resources>
 </prism:PrismApplication>
